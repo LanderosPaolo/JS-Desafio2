@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.pass {
+    text-align: center;
+}
+
+.pass select {
+    padding: 2px 8px;
+    margin: 10px 0 15px 0;
+}
+
+button {
+    width: 100%;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
